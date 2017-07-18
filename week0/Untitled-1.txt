@@ -1,0 +1,17 @@
+function Pizza(Suace, cheese, toppings, size){
+    this.sauce = sauce
+    this.cheese = cheese
+    this.toppings = toppings
+    this.size = size;
+}
+
+var pizza = new Pizza('tomato', 'mozzerala', ['pineapples', 'ham', 'bacon'], "xxl");
+
+
+var ironman = new Superhero('Tony Stark', 'iron suit', 'false',
+                             'Caucasion', 'Male', 'Manhattan'
+                             'Ultron', 'Marvel');
+    
+    this.talk = function(){
+        console.log("I am Ironman!");
+    }
