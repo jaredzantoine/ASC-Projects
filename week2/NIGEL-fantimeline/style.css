@@ -1,0 +1,28 @@
+
+body {
+    width: 50%;
+    background: #8B22C0;
+    margin: 0 auto;
+    width: 70%;  
+}
+
+@media (max-width: 600px) {
+    body {
+        width: 100%;
+        background:purple; 
+    }
+}
+
+.bio {
+    background :#8B22C0;
+    color: black ;
+}
+
+.timeline {
+    text-align: left; 
+}
+
+.main-img {
+    text-align: center;
+}
+
