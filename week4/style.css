@@ -1,0 +1,21 @@
+body{
+    background-image: url("http://www.gifmania.co.uk/Objects-Animated-Gifs/Animated-Toys/Rock-Paper-Scissors/Rock-Paper-Scissors-87015.gif"); 
+    overflow-x: hidden; 
+    overflow-y: hidden;
+}
+
+.button {
+    position: center;
+    background-color: gray;
+    border: none;
+    font-size: 15px;
+    color: #FFFFFF;
+    padding: 15px;
+    width: 150px;
+    text-align: center;
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+}
+
