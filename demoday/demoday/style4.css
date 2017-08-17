@@ -1,0 +1,65 @@
+.nav-wrapper{
+    background-color: #000;
+    position: fixed;
+    text-align: center;
+}
+
+.brand-logo {
+    color: #89e084 !important;
+    margin-left: -50px !important;
+}
+.label-icon {
+    margin-top: -10px;
+}
+
+#merchInfo{
+    width:450px;
+    border-right: solid;
+    padding-top: 10px; 
+    padding-left: 10px;
+    height: 1000px;    
+    color: white;
+}
+#merch{
+    width:375px;
+    height:375px;
+}
+div#OtherPersonsinfo{
+   width: 450px;
+   height: 1000px;
+   padding-left: 30px;
+   padding-top: 10px;
+   border-right: solid;
+}
+.pictures{
+    width:100px;
+    height:100px;
+}
+
+.message-pic{
+    margin-right: 15px;
+    float: left;
+}
+
+.msg{
+    color: white;
+}
+div.msg{
+    border-bottom: solid;
+    border-color: white;
+    width: 400px;
+    height: 125px;
+    margin-bottom: 5px;
+}
+
+.row .col.s3 {
+    width: 25%;
+    margin-left: auto;
+    left: auto;
+    right: auto;
+    color: white;
+}
+
+.row .col.s4{
+    color: black; 
+}
